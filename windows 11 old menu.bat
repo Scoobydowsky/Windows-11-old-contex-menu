@@ -1,5 +1,5 @@
 @echo off
-echo This batch file recover old context menu to windows 11
+echo This batch file recover old windows context menu to windows 11
 echo:
 echo:
 pause
