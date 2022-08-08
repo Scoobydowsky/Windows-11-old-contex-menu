@@ -1,7 +1,7 @@
 # Windows-11-old-contex-menu
 
 
-Restore old Windows contex menu (like in windows7/8/10) in few clics
+Restore old Windows contex menu (like in windows7/8/10) in few clicks
 
 
 Created By:
